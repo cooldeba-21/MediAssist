@@ -1,6 +1,7 @@
 # MediAssist – Modern Healthcare Management Platform
 
 ![MediAssist](https://mediassistdeb.netlify.app/)
+<img width="1869" height="927" alt="image" src="https://github.com/user-attachments/assets/0d6c59fa-1d57-48f1-a3dd-3b115389b3fd" />
 
 ## Overview
 
